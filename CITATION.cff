@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use IBDer Research, cite the specific publication and this repository."
+title: "IBDer Research"
+type: dataset
+authors:
+  - name: "IBDer contributors"
+repository-code: "https://github.com/IBDer/research"
+url: "https://github.com/IBDer/research"
+license: CC-BY-4.0
+

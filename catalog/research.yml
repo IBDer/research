@@ -1,0 +1,11 @@
+schema_version: "0.1"
+publisher:
+  id: "github.com/ibder"
+  name: "IBDer"
+  type: "open-source-community"
+default_language: "zh-CN"
+supported_languages:
+  - "zh-CN"
+  - "en"
+items: []
+
